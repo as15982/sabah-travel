@@ -1,0 +1,7 @@
+{
+  "name": "Sabah Travel Companion",
+  "description": "A Korean-minimalist style travel itinerary and expense tracker app for Sabah, Malaysia. Features interactive maps, exchange rate calculation, and daily planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
